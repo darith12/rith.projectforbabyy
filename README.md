@@ -1,1 +1,1 @@
-# rith.valentine.project
+# rith.project
